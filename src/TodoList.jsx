@@ -39,7 +39,7 @@ function TodoList() {
 
   return (
     
-    <div className="todo-list-container justify-content-center align-items-center">
+    <div className="todo-list-container justify-content-center align-items-center" style={{backgroundColor:"purple"}}>
       <div>
       <h1>Todo List</h1>
       </div>
